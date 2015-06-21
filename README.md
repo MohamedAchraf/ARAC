@@ -5,6 +5,6 @@ ARAC platform provides:
 -	A manual parsing corrector.   <br /> 
 -	A collocation extractor.   <br /> <br /> 
 
-ARAC platform is free software; it’s distributed in the hope that it will be useful.   <br /> 
+ARAC platform is free software; it’s distributed in the hope that it will be useful.   <br />  <br /> 
 Mohamed Achraf BEN MOHAMED   <br /> 
 mohamedachraf@gmail.com
