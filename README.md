@@ -11,20 +11,20 @@ ARAC platform provides:
 ![Arac architecture](src/images/ARAC_Architecture_.png)
 
 ##Screenshots
-Text to schemes converter
-![Arac architecture screenshot 1](src/images/ARAC_SC02.png)
+**Text to schemes converter**
+![Arac screenshot 1](src/images/ARAC_SC02.png)
 
-Schemes-based PCFG parser
-![Arac architecture screenshot 2](src/images/ARAC_SC01.png)
+**Schemes-based PCFG parser**
+![Arac screenshot 2](src/images/ARAC_SC01.png)
 
-Manual parsing corrector
-![Arac architecture screenshot 3](src/images/ARAC_SC03.png)
+**Manual parsing corrector**
+![Arac screenshot 3](src/images/ARAC_SC03.png)
 
-Parsed sentences
-![Arac architecture screenshot 4](src/images/ARAC_SC04.png)
+**Parsed sentences**
+![Arac screenshot 4](src/images/ARAC_SC04.png)
 
-Collocation extraction
-![Arac architecture screenshot 5](src/images/ARAC_SC05.png)
+**Collocation extraction**
+![Arac screenshot 5](src/images/ARAC_SC05.png)
 
 
 ARAC platform is free software; it’s distributed in the hope that it will be useful.   <br />
