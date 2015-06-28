@@ -8,7 +8,7 @@ ARAC platform provides:
 -	A collocation extractor.   <br /> <br /> 
 
 ##Architecture
-![Arac architecture](src/images/ARAC_Architecture.png)
+![Arac architecture](src/images/ARAC_Architecture_.png)
 
 ##Screenshots
 Text to schemes converter
