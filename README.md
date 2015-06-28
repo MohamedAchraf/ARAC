@@ -1,4 +1,5 @@
-#ARAC v0.1
+![Arac Logo](src/images/arac_logo.png) v0.1
+
 ##Introduction
 ARAC is a natural language processing tool for Arabic.   <br /> <br /> 
 ARAC platform provides: 
