@@ -31,5 +31,9 @@ ARAC platform provides:
 ARAC platform is free software; it’s distributed in the hope that it will be useful.   <br />
 http://dx.doi.org/10.5281/zenodo.18791 <br /> <br /> 
 
+##Reference
+- [Exploring the Potential of Schemes in Building NLP Tools for Arabic Language](http://ccis2k.org/iajit/PDF/vol.12,no.6/7328.pdf)
+
+
 Mohamed Achraf BEN MOHAMED   <br /> 
 mohamedachraf@gmail.com
